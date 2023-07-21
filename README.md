@@ -1,4 +1,4 @@
-# Todo_App_UsingSpringBoot
+# Todo_WebApp_UsingSpringBoot
 This repository contains a simple Todo App built using Spring Boot. The application allows users to manage their daily tasks by providing features to add, update, and delete tasks. The backend is implemented using Spring Boot, while the frontend is built using HTML, CSS, BootStrap.
 
 Features
